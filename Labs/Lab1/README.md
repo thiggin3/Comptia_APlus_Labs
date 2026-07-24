@@ -32,10 +32,10 @@ Stand up a reusable lab environment by building two virtual machines — a Windo
 
 > Save images under `assets/lab-01/` and reference them here.
 
-- ![Windows VM Settings](../../Assets/Lab1/Windows_VM_Settings.jpg)
-- ![Windows VM Desktop](../../Assets/Lab1/Windows_VM_Desktop.jpg)
-- ![Ubuntu VM Settings](../../Assets/Lab1/Ubuntu_VM_Settings.jpg)
-- ![Ubuntu VM Desktop](../../Assets/Lab1/Ubuntu_VM_Desktop.jpg)
+- ![Windows VM Settings](Assets/Windows_VM_Settings.jpg)
+- ![Windows VM Desktop](Assets/Windows_VM_Desktop.jpg)
+- ![Ubuntu VM Settings](Assets/Ubuntu_VM_Settings.jpg)
+- ![Ubuntu VM Desktop](Assets/Ubuntu_VM_Desktop.jpg)
 
 ## What broke / how I fixed it
 

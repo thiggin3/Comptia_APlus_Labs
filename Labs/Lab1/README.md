@@ -34,8 +34,8 @@ Stand up a reusable lab environment by building two virtual machines — a Windo
 
 - ![Windows VM Settings](Assets/Lab1/Windows_VM_Settings.jpg)
 - ![Windows VM Desktop](Assets/Lab1/Windows_VM_Desktop.jpg)
-- ![Ubuntu VM Settings](Assets/Lab1/Ubuntu_VM_Settings.png)
-- ![Ubuntu VM Desktop](Assets/Lab1/Ubuntu_VM_Desktop.png)
+- ![Ubuntu VM Settings](Assets/Lab1/Ubuntu_VM_Settings.jpg)
+- ![Ubuntu VM Desktop](Assets/Lab1/Ubuntu_VM_Desktop.jpg)
 
 ## What broke / how I fixed it
 

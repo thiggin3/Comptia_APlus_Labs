@@ -2,7 +2,7 @@
 
 A working portfolio of the hands-on labs I'm completing for the **CompTIA A+** certification (exams **220-1201** & **220-1202**). Each lab turns an exam objective into something I actually built, broke, and fixed — documented so it doubles as study notes and a demonstration of real troubleshooting.
 
-**Progress: 1 / 25 labs complete**
+**Progress: 2 / 25 labs complete**
 
 ---
 
@@ -55,13 +55,13 @@ Legend: ✅ complete · 🔄 in progress · ⬜ not started
 | Lab | Title | Domain | Level | Time | Status |
 |-----|-------|--------|-------|------|--------|
 | [1](Labs/Lab1/README.md) | Set up VMware and build Windows & Linux VMs | Core 1 & 2 · Virtualisation / OS | Beginner | 60–90 min | ✅ |
-| [1b](Labs/Lab1b/README.md) | Master snapshots (your undo button) | Core 1 · Virtualisation | Beginner | 10 min | 🔄 |
+| [1b](Labs/Lab1b/README.md) | Master snapshots (your undo button) | Core 1 · Virtualisation | Beginner | 10 min | ✅ |
 
 ### Section B — Hardware & Mobile Devices (Core 1)
 
 | Lab | Title | Domain | Level | Time | Status |
 |-----|-------|--------|-------|------|--------|
-| [2](Labs/Lab2/README.md) | Full PC teardown and rebuild | Core 1 · Hardware (25%) | Intermediate | 90 min | ⬜ |
+| [2](Labs/Lab2/README.md) | Full PC teardown and rebuild | Core 1 · Hardware (25%) | Intermediate | 90 min | 🔄 |
 | [3](Labs/Lab3/README.md) | Identify and match RAM, storage, and interfaces | Core 1 · Hardware (25%) | Beginner | 30 min | ⬜ |
 | [4](Labs/Lab4/README.md) | Simulate RAID levels | Core 1 · Hardware (25%) | Intermediate | 30 min | ⬜ |
 | [5](Labs/Lab5/README.md) | Install and troubleshoot a printer | Core 1 · Hardware / Peripherals | Beginner | 30 min | ⬜ |

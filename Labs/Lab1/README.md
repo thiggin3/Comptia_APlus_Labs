@@ -30,10 +30,13 @@ Stand up a reusable lab environment by building two virtual machines — a Windo
 
 ## Screenshots
 
-> Save images under `assets/lab-01/` and reference them here.
+> Windows settings and Desktop after boot-up and updates
 
 - ![Windows VM Settings](Assets/Windows_VM_Settings.jpg)
 - ![Windows VM Desktop](Assets/Windows_VM_Desktop.jpg)
+
+> Ubuntu Settings and Desktop after boot-up and updates
+
 - ![Ubuntu VM Settings](Assets/Ubuntu_VM_Settings.jpg)
 - ![Ubuntu VM Desktop](Assets/Ubuntu_VM_Desktop.jpg)
 

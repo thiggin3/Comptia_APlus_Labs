@@ -13,7 +13,7 @@ Learn to take, restore, and manage VMware snapshots so any lab that changes a VM
 ## What I need
 
 - The `Win11-Lab` VM built in Lab 1
-- The 'Ubuntu-Lab' VM built in Lab 1
+- The `Ubuntu-Lab` VM built in Lab 1
 
 ## What I did
 

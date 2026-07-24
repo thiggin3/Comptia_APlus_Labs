@@ -45,7 +45,7 @@ Every lab writeup follows the same six sections:
 6. **Exam relevance** — how the topic appears on the A+
 
 ---
-
+ 
 ## Progress tracker
 
 Legend: ✅ complete · 🔄 in progress · ⬜ not started

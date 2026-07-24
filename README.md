@@ -61,8 +61,8 @@ Legend: ✅ complete · 🔄 in progress · ⬜ not started
 
 | Lab | Title | Domain | Level | Time | Status |
 |-----|-------|--------|-------|------|--------|
-| [2](Labs/Lab2/README.md) | Full PC teardown and rebuild | Core 1 · Hardware (25%) | Intermediate | 90 min | 🔄 |
-| [3](Labs/Lab3/README.md) | Identify and match RAM, storage, and interfaces | Core 1 · Hardware (25%) | Beginner | 30 min | ⬜ |
+| [2](Labs/Lab2/README.md) | Full PC teardown and rebuild | Core 1 · Hardware (25%) | Intermediate | 90 min | ✅ |
+| [3](Labs/Lab3/README.md) | Identify and match RAM, storage, and interfaces | Core 1 · Hardware (25%) | Beginner | 30 min | 🔄 |
 | [4](Labs/Lab4/README.md) | Simulate RAID levels | Core 1 · Hardware (25%) | Intermediate | 30 min | ⬜ |
 | [5](Labs/Lab5/README.md) | Install and troubleshoot a printer | Core 1 · Hardware / Peripherals | Beginner | 30 min | ⬜ |
 | [6](Labs/Lab6/README.md) | Configure a mobile device (email + security) | Core 1 · Mobile Devices (15%) | Beginner | 20 min | ⬜ |

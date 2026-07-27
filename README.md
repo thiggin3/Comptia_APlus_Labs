@@ -2,7 +2,7 @@
 
 A working portfolio of the hands-on labs I'm completing for the **CompTIA A+** certification (exams **220-1201** & **220-1202**). Each lab turns an exam objective into something I actually built, broke, and fixed — documented so it doubles as study notes and a demonstration of real troubleshooting.
 
-**Progress: 2 / 25 labs complete**
+**Progress: 3 / 25 labs complete**
 
 ---
 
@@ -62,8 +62,8 @@ Legend: ✅ complete · 🔄 in progress · ⬜ not started
 | Lab | Title | Domain | Level | Time | Status |
 |-----|-------|--------|-------|------|--------|
 | [2](Labs/Lab2/README.md) | Full PC teardown and rebuild | Core 1 · Hardware (25%) | Intermediate | 90 min | ✅ |
-| [3](Labs/Lab3/README.md) | Identify and match RAM, storage, and interfaces | Core 1 · Hardware (25%) | Beginner | 30 min | 🔄 |
-| [4](Labs/Lab4/README.md) | Simulate RAID levels | Core 1 · Hardware (25%) | Intermediate | 30 min | ⬜ |
+| [3](Labs/Lab3/README.md) | Identify and match RAM, storage, and interfaces | Core 1 · Hardware (25%) | Beginner | 30 min | ✅ |
+| [4](Labs/Lab4/README.md) | Simulate RAID levels | Core 1 · Hardware (25%) | Intermediate | 30 min | 🔄 |
 | [5](Labs/Lab5/README.md) | Install and troubleshoot a printer | Core 1 · Hardware / Peripherals | Beginner | 30 min | ⬜ |
 | [6](Labs/Lab6/README.md) | Configure a mobile device (email + security) | Core 1 · Mobile Devices (15%) | Beginner | 20 min | ⬜ |
 
